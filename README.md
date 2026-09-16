@@ -72,11 +72,16 @@ The system processes it as follows:
 
 ## 🏗️ Technology Stack
 
-**Backend:** FastAPI, Uvicorn
-**GenAI:** LangChain, LangGraph, OpenAI API
-**Retrieval:** FAISS, SentenceTransformers
-**Database:** SQLite
-**Language:** Python
+**Backend:** FastAPI, Uvicorn 
+
+**GenAI:** LangChain, LangGraph, OpenAI API 
+
+**Retrieval:** FAISS, SentenceTransformers 
+
+**Database:** SQLite 
+
+**Language:** Python 
+
 **API:** REST, Pydantic
 
 ## 🎯 Project Objective
